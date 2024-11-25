@@ -1,1 +1,1 @@
-## Experiment name
+## Roots of Equation - Non-Linear Equation (Newton Raphson Method)
