@@ -1,1 +1,1 @@
-<h2>AIM: To study Non-linear equation (Successive Substitution Method)</h2>
+<h2>AIM: To study Non-linear equation (Newton Raphson method)</h2>
