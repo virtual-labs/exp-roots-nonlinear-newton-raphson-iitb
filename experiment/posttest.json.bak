@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$x_1^2 + x_1x_2 = 10 \\tag{eq. 1}$$ $$ x_2 + 3x_1x_2^2 = 57 \\tag{eq. 2}$$ $$\\text{Solve the non-linear set of equations} $$ $$ \\text{Take initial guess: } x_1=1.5, \\quad x_2 = 3.5 $$ $$\\text{Find 2nd iteration of } x_1 \\text{ using Newton Raphson method}$$",
+      "qid": 1,
+      "option_a": "1.980174",
+      "option_b": "2.036029",
+      "option_c": "2.017256",
+      "option_d": "1.998701",
+      "correct_option": "d"
+   },
+   {
+      "question": "$$x_1^2 + x_1x_2 = 10 \\tag{eq. 1}$$ $$ x_2 + 3x_1x_2^2 = 57 \\tag{eq. 2}$$ $$\\text{Solve the non-linear set of equations} $$ $$ \\text{Take initial guess: } x_1=1.5, \\quad x_2 = 3.5 $$ $$\\text{Find 2nd iteration of } x_2 \\text{ using Newton Raphson method}$$",
+      "qid": 2,
+      "option_a": "3.002289",
+      "option_b": "2.999999",
+      "option_c": "3.002579",
+      "option_d": "2.843875",
+      "correct_option": "a"
+   }
+]

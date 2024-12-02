@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The successive substitution method employed technique from",
+      "qid": 1,
+      "option_a": "Direct method",
+      "option_b": "Iterative method",
+      "option_c": "Taylor's series method",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "The Newton raphson method in non-linear equation is derived from",
+      "qid": 2,
+      "option_a": "Direct method",
+      "option_b": "Taylor's series method",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   }
+]
