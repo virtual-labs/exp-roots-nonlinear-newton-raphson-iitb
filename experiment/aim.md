@@ -1,1 +1,1 @@
-<h2>AIM: To study Non-linear equation (Newton Raphson method)</h2>
+<h2>AIM: To study non-linear Equation (Newton Raphson Method) </h2>
