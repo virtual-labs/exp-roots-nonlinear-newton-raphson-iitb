@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2>AIM: To study non-linear Equation (Newton Raphson Method) </h2>
